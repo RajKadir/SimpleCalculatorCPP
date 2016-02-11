@@ -1,2 +1,2 @@
 # SimpleCalculatorCPP
-A simple text calculator
+A simple text calculator written in C++
