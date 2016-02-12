@@ -7,6 +7,11 @@ int addNumbers(int one, int two){
     return one + two;
 }
 
+// function to subtract numbers
+int subNumbers(int one, int two){
+    return one - two;
+}
+
 int main()
 {
     // local variables
@@ -15,7 +20,7 @@ int main()
     int sum;
 
     // Ask user prompts
-    cout << "Welcome to this simple calculator, please enter a number" << endl;
+    cout << "Welcome to this simple calculator, please enter a number." << endl;
     cin >> numOne;
     cout << "The number entered was: " << numOne << endl;
     cout << "Now enter the number you wish to add to this: " << endl;
